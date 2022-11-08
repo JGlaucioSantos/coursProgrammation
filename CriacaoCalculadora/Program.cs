@@ -2,6 +2,8 @@
 
 using CriacaoCalculadora;
 
+Console.WriteLine("Teste GitHub");
+
 namespace CriacaoCalculadora
 {
  
