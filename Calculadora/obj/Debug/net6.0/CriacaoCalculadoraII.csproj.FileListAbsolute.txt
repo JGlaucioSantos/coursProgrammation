@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\CriacaoCalculadoraII.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\CriacaoCalculadoraII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\CriacaoCalculadoraII.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\CriacaoCalculadoraII.AssemblyInfo.cs
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\CriacaoCalculadoraII.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\bin\Debug\net6.0\CriacaoCalculadoraII.exe
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\bin\Debug\net6.0\CriacaoCalculadoraII.deps.json
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\bin\Debug\net6.0\CriacaoCalculadoraII.runtimeconfig.json
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\bin\Debug\net6.0\CriacaoCalculadoraII.dll
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\bin\Debug\net6.0\CriacaoCalculadoraII.pdb
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\CriacaoCalculadoraII.dll
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\refint\CriacaoCalculadoraII.dll
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\CriacaoCalculadoraII.pdb
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\CriacaoCalculadoraII.genruntimeconfig.cache
+C:\Users\pc\source\repos\CriacaoCalculadora\Calculadora\obj\Debug\net6.0\ref\CriacaoCalculadoraII.dll

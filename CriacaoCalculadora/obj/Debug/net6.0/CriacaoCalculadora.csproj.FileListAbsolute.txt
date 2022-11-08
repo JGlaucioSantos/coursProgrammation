@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\bin\Debug\net6.0\CriacaoCalculadora.exe
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\bin\Debug\net6.0\CriacaoCalculadora.deps.json
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\bin\Debug\net6.0\CriacaoCalculadora.runtimeconfig.json
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\bin\Debug\net6.0\CriacaoCalculadora.dll
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\bin\Debug\net6.0\CriacaoCalculadora.pdb
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\CriacaoCalculadora.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\CriacaoCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\CriacaoCalculadora.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\CriacaoCalculadora.AssemblyInfo.cs
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\CriacaoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\CriacaoCalculadora.dll
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\refint\CriacaoCalculadora.dll
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\CriacaoCalculadora.pdb
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\CriacaoCalculadora.genruntimeconfig.cache
+C:\Users\pc\source\repos\CriacaoCalculadora\CriacaoCalculadora\obj\Debug\net6.0\ref\CriacaoCalculadora.dll
