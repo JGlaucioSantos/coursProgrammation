@@ -10,6 +10,8 @@ namespace CriacaoCalculadoraTests
     
     public class CalculadoraTests
     {
+        Calculadora calc = new Calculadora();
+
         [Theory]
         [InlineData(16, 4, 20)]
         [InlineData(-16, 2, -14)]
@@ -20,7 +22,7 @@ namespace CriacaoCalculadoraTests
             // Arrange
 
             // Act
-            int result = Calculadora.Adicao(pNum, sNum);
+            int result = calc.Adicao(pNum, sNum);
 
             // Assert
             result.ShouldBe(resultadoEsperado);
@@ -37,7 +39,7 @@ namespace CriacaoCalculadoraTests
             // Arrange
 
             // Act
-            int result = Calculadora.Subtracao(pNum, sNum);
+            int result = calc.Subtracao(pNum, sNum);
 
             // Assert
             result.ShouldBe(resultadoEsperado);
@@ -46,14 +48,14 @@ namespace CriacaoCalculadoraTests
         [Theory]
         [InlineData(16, 4, 64)]
         [InlineData(-16, 2, -32)]
-        [InlineData(50, 100000, 500000000)]
+        [InlineData(50, 100000, 5000000)]
 
         public void MultiplicaNumeros_Sucesso(int pNum, int sNum, int resultadoEsperado)
         {
             // Arrange
 
             // Act
-            int result = Calculadora.Multiplicacao(pNum, sNum);
+            int result = calc.Multiplicacao(pNum, sNum);
 
             // Assert
             result.ShouldBe(resultadoEsperado);
@@ -62,14 +64,14 @@ namespace CriacaoCalculadoraTests
         [Theory]
         [InlineData(16, 4, 4)]
         [InlineData(-16, 2, -8)]
-        [InlineData(50, 100000, 5)]
+        [InlineData(500000, 100000, 5)]
 
         public void DivisaoNumeros_Sucesso(int pNum, int sNum, int resultadoEsperado)
         {
             // Arrange
 
             // Act
-            int result = Calculadora.Divisao(pNum, sNum);
+            int result = calc.Divisao(pNum, sNum);
 
             // Assert
             result.ShouldBe(resultadoEsperado);

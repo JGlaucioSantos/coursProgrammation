@@ -2,8 +2,7 @@
 
 using CriacaoCalculadora;
 
-Console.WriteLine("Teste GitHub");
-Console.WriteLine("Glaucio Santos");
+
 namespace CriacaoCalculadora
 {
  
@@ -26,32 +25,37 @@ namespace CriacaoCalculadora
             Console.WriteLine("Digite o segundo numero: ");
             int num2 = int.Parse(Console.ReadLine());
 
-            Calculadora calculadora = new Calculadora();
-           
+            Calculadora calc = new Calculadora();
+            
+
             int resultado = 0;
             
             switch (operacao)
             {
                 case 1:
                     {
-                        resultado = Calculadora.Adicao(num1, num2);
+                        resultado = calc.Adicao(num1, num2);
                         break;
                     }
                 case 2:
                     {
-                        resultado = Calculadora.Subtracao(num1, num2);
+                        resultado = calc.Subtracao(num1, num2);
                         break;
                     }
                 case 3:
                     {
-                        resultado = Calculadora.Multiplicacao(num1, num2);
+                        resultado = calc.Multiplicacao(num1, num2);
                         break;
                     }
                 case 4:
 
                     {
-
-                            resultado = Calculadora.Divisao(num1, num2);
+                        if(num2 == 0)
+                        {
+                            Console.WriteLine("Nao é possivel dividir um numero por zero!");
+                            return;
+                        }
+                            resultado = calc.Divisao(num1, num2);
                             break;
                     }
 
